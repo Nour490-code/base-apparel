@@ -52,13 +52,14 @@ h1 span{
 }
 .subscription{
     position: relative;
+     width: 70%;
 }
 .input{
     border: 1px solid RGB(58, 62, 65,0.4);
     margin-top:40px;
     border-radius: 25px;
     padding: 15px 30px;
-    width: 70%;
+    width: 100%;
 }
 a img{
     position: absolute;
@@ -66,7 +67,7 @@ a img{
     top: 15px;
 }
 .subscription a{
-    width:13%;
+    width:15%;
     border-radius: 25px;
     height: 48px;
     position: absolute;
@@ -133,7 +134,7 @@ a:hover:before{opacity: 1; transform: translate(0,0);}
         display: none;
     }
     .side-pic{
-        background-image: url(/images/hero-mobile.jpg);
+        background-image: url(./images/hero-mobile.jpg);
         background-size: cover;
         height: 40vh;
         max-width: 100%;
