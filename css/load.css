@@ -1,0 +1,13 @@
+
+body {
+   background-image: repeating-linear-gradient(135deg,  hsl(0, 80%, 86%),  hsl(0, 74%, 74%));
+   margin:0;
+   padding: 0;
+   box-sizing: border-box;
+}
+svg{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50px, 50px);
+}
