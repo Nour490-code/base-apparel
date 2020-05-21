@@ -133,7 +133,7 @@ a:hover:before{opacity: 1; transform: translate(0,0);}
         display: none;
     }
     .side-pic{
-        background-image: url(/images/hero-mobile.jpg);
+        background-image: url(images/hero-mobile.jpg);
         background-size: cover;
         height: 40vh;
         max-width: 100%;
